@@ -1,0 +1,6 @@
+http://www.youtube.com/watch?v=tv7BfMIikvc&noredirect=1
+
+以上是YOUTUBE的airserver for iOS ,阅读列表可见，
+
+AirServer for iOS is the first application that transforms your iOS device into an AirTunes and AirPlay receiver. It's like having an AirPort Express and Apple TV in the palm of your hand, because it lets you stream audio, videos, photos, and slide shows from your Mac to your iOS device or between iOS devices. Currently, this is only available for jailbroken devices through the Cydia store. 
+重点:Please note, mirroring is not supported on AirServer for iOS.
