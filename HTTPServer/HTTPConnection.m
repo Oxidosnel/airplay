@@ -2127,7 +2127,7 @@ static NSMutableArray *recentNonces;
 			UInt64 bytesLeft = requestContentLength - requestContentLengthReceived;
 			
 			NSUInteger bytesToRead = bytesLeft < POST_CHUNKSIZE ? (NSUInteger)bytesLeft : POST_CHUNKSIZE;
-            NSLog(@"didReadData 11 下面的配对 %d",bytesToRead);
+            NSLog(@"didReadData 11 下面的配对  %d",bytesToRead);
 			
 					//[asyncSocket readDataToLength:bytesToRead
 					                  //withTimeout:TIMEOUT_READ_BODY
